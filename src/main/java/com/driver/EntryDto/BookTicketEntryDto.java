@@ -14,7 +14,6 @@ public class BookTicketEntryDto {
 
     private Integer trainId;
 
-
     private Station fromStation;
 
     private Station toStation;
